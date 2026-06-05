@@ -1,5 +1,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1 align="center">Hi 👋, I'm Diyas Ruwandi</h1>
+##Hi 👋, I'm Diyas Ruwandi
 
 <h3 align="center">
 Frontend Developer | React Enthusiast | Modern Web Builder
