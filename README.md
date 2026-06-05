@@ -1,5 +1,21 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1 align="center">Hi 👋, I'm Diyas Ruwandi</h1>
 
+<h3 align="center">
+Frontend Developer | React Enthusiast | Modern Web Builder
+</h3>
+
+<p align="center">
+Saya adalah seorang Frontend Developer yang memiliki pengalaman dalam membangun website modern, responsive, dan interaktif menggunakan teknologi JavaScript ecosystem terbaru. Saya fokus dalam menciptakan tampilan antarmuka yang menarik, clean, dan memiliki performa yang optimal untuk memberikan pengalaman pengguna terbaik.
+</p>
+
+<p align="center">
+Selama perjalanan saya sebagai developer, saya telah mengembangkan berbagai jenis website mulai dari landing page, company profile, dashboard admin, hingga aplikasi web interaktif menggunakan React, TypeScript, Vite, Tailwind CSS, dan JavaScript. Saya sangat menikmati proses mengubah desain menjadi aplikasi nyata yang cepat, scalable, serta mudah dikembangkan dan di-maintain.
+</p>
+
+<p align="center">
+Saya terbiasa menggunakan pendekatan component-based development, reusable UI components, responsive web design, serta clean code architecture untuk memastikan project tetap terstruktur dengan baik. Selain itu, saya juga terus belajar dan mengikuti perkembangan teknologi frontend modern agar dapat membangun aplikasi yang lebih efisien dan modern.
+</p>
 <div align="center">
   <img height="170" src="https://media1.tenor.com/m/TW9VOlzEaoQAAAAd/demb%C3%A9l%C3%A9-phone-call.gif"  />
 </div>
