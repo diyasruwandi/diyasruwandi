@@ -11,9 +11,9 @@ Saya adalah Frontend Developer yang berpengalaman membangun website modern, resp
 [![](https://komarev.com/ghpvc/?username=diyasruwandi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div align="center">
+<!-- <div align="center">
   <img height="170" src="https://media1.tenor.com/m/TW9VOlzEaoQAAAAd/demb%C3%A9l%C3%A9-phone-call.gif"  />
-</div>
+</div> -->
 
 
 # 💻 Tech Stack:
