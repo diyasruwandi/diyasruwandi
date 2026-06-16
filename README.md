@@ -1,7 +1,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h1 align="center">Hi 👋, I'm Diyas Ruwandi</h1>
 <h3 align="center">
-Frontend Developer | React Enthusiast | Modern Web Builder
+Frontend Developer | React Enthusiast 
 </h3>
 
 # 💫 About Me:
