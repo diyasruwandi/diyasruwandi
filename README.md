@@ -5,7 +5,7 @@ Frontend Developer | React Enthusiast
 </h3>
 
 # 💫 About Me:
-Saya adalah Frontend Developer yang berpengalaman membangun website modern, responsive, dan interaktif menggunakan React, TypeScript, Vite, Tailwind CSS, dan JavaScript. Saya fokus menciptakan antarmuka yang clean, menarik, dan optimal dengan pendekatan reusable components, responsive design, serta clean code architecture untuk menghasilkan aplikasi yang efisien dan mudah dikembangkan.<br>
+Saya adalah Frontend Developer yang berpengalaman membangun website modern, responsive, dan interaktif menggunakan React, TypeScript, Tailwind CSS, dan JavaScript. Saya fokus menciptakan antarmuka yang clean, menarik, dan optimal dengan pendekatan reusable components, responsive design, serta clean code architecture untuk menghasilkan aplikasi yang efisien dan mudah dikembangkan.<br>
 
 ---
 [![](https://komarev.com/ghpvc/?username=diyasruwandi&icon=0&color=0)](https://visitcount.itsvg.in)
