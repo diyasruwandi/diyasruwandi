@@ -1,11 +1,11 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h1 align="center">Hi 👋, I'm Diyas Ruwandi</h1>
 <h3 align="center">
-Frontend Developer | React Enthusiast 
+Frontend Developer
 </h3>
 
 ## About Me:
-Saya adalah Frontend Developer yang berpengalaman membangun website modern, responsive, dan interaktif menggunakan React, TypeScript, Tailwind CSS, dan JavaScript. Saya fokus menciptakan antarmuka yang clean, menarik, dan optimal dengan pendekatan reusable components, responsive design, serta clean code architecture untuk menghasilkan aplikasi yang efisien dan mudah dikembangkan.<br>
+Saya seorang Frontend Developer yang sedang terus belajar dan mengembangkan kemampuan dalam membangun website modern, responsive, dan interaktif. Saya senang bereksperimen dengan reusable components, responsive design, dan clean code architecture untuk menghasilkan aplikasi yang rapi, efisien, dan mudah dikembangkan.<br>
 
 ---
 [![](https://komarev.com/ghpvc/?username=diyasruwandi&icon=0&color=0)](https://visitcount.itsvg.in)
