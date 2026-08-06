@@ -4,7 +4,7 @@
 Frontend Developer | React Enthusiast 
 </h3>
 
-# About Me:
+## About Me:
 Saya adalah Frontend Developer yang berpengalaman membangun website modern, responsive, dan interaktif menggunakan React, TypeScript, Tailwind CSS, dan JavaScript. Saya fokus menciptakan antarmuka yang clean, menarik, dan optimal dengan pendekatan reusable components, responsive design, serta clean code architecture untuk menghasilkan aplikasi yang efisien dan mudah dikembangkan.<br>
 
 ---
@@ -16,7 +16,7 @@ Saya adalah Frontend Developer yang berpengalaman membangun website modern, resp
 </div> -->
 
 
-# Tech Stack:
+## Tech Stack:
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
