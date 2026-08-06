@@ -8,8 +8,6 @@ Frontend Developer
 Saya seorang Frontend Developer yang sedang terus belajar dan mengembangkan kemampuan dalam membangun website modern, responsive, dan interaktif. Saya senang bereksperimen dengan reusable components, responsive design, dan clean code architecture untuk menghasilkan aplikasi yang rapi, efisien, dan mudah dikembangkan.<br>
 
 ---
-[![](https://komarev.com/ghpvc/?username=diyasruwandi&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- <div align="center">
   <img height="170" src="https://media1.tenor.com/m/TW9VOlzEaoQAAAAd/demb%C3%A9l%C3%A9-phone-call.gif"  />
