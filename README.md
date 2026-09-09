@@ -5,7 +5,7 @@ Frontend Developer
 </h3>
 
 ## About Me:
-Saya seorang Frontend Developer yang sedang terus belajar dan mengembangkan kemampuan dalam membangun website modern, responsive, dan interaktif. Saya senang bereksperimen dengan reusable components, responsive design, dan clean code architecture untuk menghasilkan aplikasi yang rapi, efisien, dan mudah dikembangkan.<br>
+I am a Frontend Developer who is continuously learning and improving my skills in building modern, responsive, and interactive websites. I enjoy experimenting with reusable components, responsive design, and clean code architecture to create applications that are well-structured, efficient, and easy to maintain and scale.<br>
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
