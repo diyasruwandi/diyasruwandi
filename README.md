@@ -1,6 +1,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1 align="center">Hi 👋, I'm Diyas Ruwandi</h1>
-<h3 align="center">
+<h1>Hi 👋, I'm Diyas Ruwandi</h1>
+<h3>
 Frontend Developer
 </h3>
 
