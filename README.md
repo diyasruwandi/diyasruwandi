@@ -17,16 +17,33 @@ I am a Frontend Developer who is continuously learning and improving my skills i
 ## Tech Stack:
 
 ### Languages
-<img align="absmiddle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" alt="JavaScript" /> JavaScript &nbsp;&nbsp;&nbsp;
-<img align="absmiddle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" height="24" alt="TypeScript" /> TypeScript &nbsp;&nbsp;&nbsp;
-<img align="absmiddle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python" /> Python &nbsp;&nbsp;&nbsp;
-<img align="absmiddle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="24" height="24" alt="Dart" /> Dart
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" alt="JavaScript" /> JavaScript</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" height="24" alt="TypeScript" /> TypeScript</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python" /> Python</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="24" height="24" alt="Dart" /> Dart</td>
+  </tr>
+</table>
 
 ### Frameworks & Technologies
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24" alt="React" /> React</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="24" height="24" alt="Flutter" /> Flutter</td>
+    <td><img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="24" height="24" alt="Next.js" /> Next.js</td>
+    <td><img src="https://cdn.simpleicons.org/flask/ffffff" width="24" height="24" alt="Flask" /> Flask</td>
+  </tr>
+</table>
 
 ### Machine Learning
-![Tesseract](https://img.shields.io/badge/tesseract%20ocr-000000.svg?style=for-the-badge&logo=tesseract&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+<table>
+  <tr>
+    <td><img align="absmiddle" src="https://cdn.simpleicons.org/tesseract/ffffff" width="24" height="24" alt="Tesseract" /> Tesseract OCR</td>
+    <td><img align="absmiddle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="24" height="24" alt="OpenCV" /> OpenCV</td>
+    <td><img align="absmiddle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="24" height="24" alt="PyTorch" /> PyTorch</td>
+  </tr>
+</table>
 
 ### Databases & Services
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/supabase-3FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) 
