@@ -19,10 +19,10 @@ I am a Frontend Developer who is continuously learning and improving my skills i
 ### Languages
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" alt="JavaScript" /> JavaScript</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" height="24" alt="TypeScript" /> TypeScript</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python" /> Python</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="24" height="24" alt="Dart" /> Dart</td>
+    <td><img src="https://cdn.simpleicons.org/javascript/8b949e" width="24" height="24" alt="JavaScript" /> JavaScript</td>
+    <td><img src="https://cdn.simpleicons.org/typescript/8b949e" width="24" height="24" alt="TypeScript" /> TypeScript</td>
+    <td><img src="https://cdn.simpleicons.org/python/8b949e" width="24" height="24" alt="Python" /> Python</td>
+    <td><img src="https://cdn.simpleicons.org/dart/8b949e" width="24" height="24" alt="Dart" /> Dart</td>
   </tr>
 </table>
 
