@@ -12,48 +12,41 @@ Hit me up [LinkedIn](https://www.linkedin.com/in/diyas-ruwandi-285118295/), [Por
 </div> -->
 
 
-## Tech Stack:
+### Tech Stack:
+○ Languages : Javascript, Typescript, Python, PHP, Dart
+○ Frameworks & Tools : React, Flutter, Flask, Vite
+○ Machine Learning : Tesseract OCR, OpenCV, Scikit-learn
+○ Database & Services : PostgreSQL, MySQL, Firebase
+○ Game Engine : Unity
+○ Design : Figma, TailwindCSS
+○ Tools : Git, Github, Postman
 
-### Languages
-<table>
+
+<!-- <table> -->
+  <!-- <tr>
+    <td><img src="https://cdn.simpleicons.org/javascript/8b949e" width="20" height="20" alt="JavaScript" /> JavaScript</td>
+    <td><img src="https://cdn.simpleicons.org/typescript/8b949e" width="20" height="20" alt="TypeScript" /> TypeScript</td>
+    <td><img src="https://cdn.simpleicons.org/python/8b949e" width="20" height="20" alt="Python" /> Python</td> -->
+    <!-- <td><img src="https://cdn.simpleicons.org/dart/8b949e" width="20" height="20" alt="Dart" /> Dart</td> --></tr>
+<!-- </table> -->
+
+<!-- <table>
   <tr>
-    <td><img align="absmiddle" src="https://cdn.simpleicons.org/javascript/8b949e" width="24" height="24" alt="JavaScript" /> JavaScript</td>
-    <td><img align="absmiddle" src="https://cdn.simpleicons.org/typescript/8b949e" width="24" height="24" alt="TypeScript" /> TypeScript</td>
-    <td><img align="absmiddle" src="https://cdn.simpleicons.org/python/8b949e" width="24" height="24" alt="Python" /> Python</td>
-    <td><img align="absmiddle" src="https://cdn.simpleicons.org/dart/8b949e" width="24" height="24" alt="Dart" /> Dart</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" alt="React" /> React</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="20" height="20" alt="Flutter" /> Flutter</td>
+    <td><img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="20" height="20" alt="Next.js" /> Next.js</td>
+    <td><img src="https://cdn.simpleicons.org/flask/ffffff" width="20" height="20" alt="Flask" /> Flask</td>
   </tr>
-</table>
+</table> -->
 
-### Frameworks & Technologies
-<table>
+<!-- <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24" alt="React" /> React</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="24" height="24" alt="Flutter" /> Flutter</td>
-    <td><img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="24" height="24" alt="Next.js" /> Next.js</td>
-    <td><img src="https://cdn.simpleicons.org/flask/ffffff" width="24" height="24" alt="Flask" /> Flask</td>
-  </tr>
-</table>
-
-### Machine Learning
-<table>
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/tesseract/ffffff" width="24" height="24" alt="Tesseract" /> Tesseract OCR</td>
+    <td>Tesseract OCR</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="24" height="24" alt="OpenCV" /> OpenCV</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="24" height="24" alt="PyTorch" /> PyTorch</td>
   </tr>
-</table>
+</table> -->
 
-### Databases & Services
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/supabase-3FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) ![Tesseract](https://img.shields.io/badge/tesseract%20ocr-000000.svg?style=for-the-badge&logo=tesseract&logoColor=white)
-
-### Game Engine
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-### Design & Styles
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 
 ---
