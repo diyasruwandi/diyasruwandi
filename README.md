@@ -1,11 +1,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1>Hi 👋, I'm Diyas Ruwandi</h1>
-<h3>
-Frontend Developer
-</h3>
-
-## About Me:
-I am a Frontend Developer who is continuously learning and improving my skills in building modern, responsive, and interactive websites. I enjoy experimenting with reusable components, responsive design, and clean code architecture to create applications that are well-structured, efficient, and easy to maintain and scale.<br>
+## Yo, what's good? 
+I'm Yass, a dev still locked in and growing, one commit at a time
+I got a lil' ML on the side too, 'cause why not? If it's got a bug, I'm on it. No cap.
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -61,6 +57,5 @@ I am a Frontend Developer who is continuously learning and improving my skills i
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=diyasruwandi&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=diyasruwandi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
