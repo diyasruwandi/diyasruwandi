@@ -19,10 +19,22 @@ I am a Frontend Developer who is continuously learning and improving my skills i
 ### Languages
 <table>
   <tr>
-    <td><img src="https://cdn.simpleicons.org/javascript/8b949e" width="24" height="24" alt="JavaScript" /> JavaScript</td>
-    <td><img src="https://cdn.simpleicons.org/typescript/8b949e" width="24" height="24" alt="TypeScript" /> TypeScript</td>
-    <td><img src="https://cdn.simpleicons.org/python/8b949e" width="24" height="24" alt="Python" /> Python</td>
-    <td><img src="https://cdn.simpleicons.org/dart/8b949e" width="24" height="24" alt="Dart" /> Dart</td>
+    <td>
+      <img align="absmiddle" src="https://skillicons.dev/icons?i=js&theme=dark#gh-dark-mode-only" width="28" height="28" alt="JavaScript" />
+      <img align="absmiddle" src="https://skillicons.dev/icons?i=js&theme=light#gh-light-mode-only" width="28" height="28" alt="JavaScript" /> JavaScript
+    </td>
+    <td>
+      <img align="absmiddle" src="https://skillicons.dev/icons?i=ts&theme=dark#gh-dark-mode-only" width="28" height="28" alt="TypeScript" />
+      <img align="absmiddle" src="https://skillicons.dev/icons?i=ts&theme=light#gh-light-mode-only" width="28" height="28" alt="TypeScript" /> TypeScript
+    </td>
+    <td>
+      <img align="absmiddle" src="https://skillicons.dev/icons?i=py&theme=dark#gh-dark-mode-only" width="28" height="28" alt="Python" />
+      <img align="absmiddle" src="https://skillicons.dev/icons?i=py&theme=light#gh-light-mode-only" width="28" height="28" alt="Python" /> Python
+    </td>
+    <td>
+      <img align="absmiddle" src="https://skillicons.dev/icons?i=dart&theme=dark#gh-dark-mode-only" width="28" height="28" alt="Dart" />
+      <img align="absmiddle" src="https://skillicons.dev/icons?i=dart&theme=light#gh-light-mode-only" width="28" height="28" alt="Dart" /> Dart
+    </td>
   </tr>
 </table>
 
