@@ -39,9 +39,9 @@ I am a Frontend Developer who is continuously learning and improving my skills i
 ### Machine Learning
 <table>
   <tr>
-    <td><img align="absmiddle" src="https://cdn.simpleicons.org/tesseract/ffffff" width="24" height="24" alt="Tesseract" /> Tesseract OCR</td>
-    <td><img align="absmiddle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="24" height="24" alt="OpenCV" /> OpenCV</td>
-    <td><img align="absmiddle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="24" height="24" alt="PyTorch" /> PyTorch</td>
+    <td><img src="https://cdn.simpleicons.org/tesseract/ffffff" width="24" height="24" alt="Tesseract" /> Tesseract OCR</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="24" height="24" alt="OpenCV" /> OpenCV</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="24" height="24" alt="PyTorch" /> PyTorch</td>
   </tr>
 </table>
 
