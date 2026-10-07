@@ -1,6 +1,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## Yo, what's good? 
-I'm Yass, a dev still locked in and growing, one commit at a time
+I'm Yass, a dev still locked in and growing, one commit at a time<br/>
 I got a lil' ML on the side too, 'cause why not? If it's got a bug, I'm on it. No cap.
 
 ---
