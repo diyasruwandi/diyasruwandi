@@ -3,7 +3,7 @@
 I'm Yass, a dev still locked in and growing, one commit at a time<br/>
 I got a lil' ML on the side too, 'cause why not? If it's got a bug, I'm on it. No cap.
 
-Hit me up [LinkedIn](https://www.linkedin.com/in/diyas-ruwandi-285118295/) | [Portfolio](https://www.diyasruwandi.my.id/) | [Email](mailto:diyasruwandi273@gmail.com) | [Instagram](https://www.instagram.com/yassrwnd)
+Hit me up [LinkedIn](https://www.linkedin.com/in/diyas-ruwandi-285118295/), [Portfolio](https://www.diyasruwandi.my.id/), [Email](mailto:diyasruwandi273@gmail.com), [Instagram](https://www.instagram.com/yassrwnd), and [TikTok](https://www.tiktok.com/@naspadd33)
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
