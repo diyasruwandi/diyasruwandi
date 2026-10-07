@@ -27,7 +27,7 @@ Hit me up [LinkedIn](https://www.linkedin.com/in/diyas-ruwandi-285118295/), [Por
     <td><img src="https://cdn.simpleicons.org/javascript/8b949e" width="20" height="20" alt="JavaScript" /> JavaScript</td>
     <td><img src="https://cdn.simpleicons.org/typescript/8b949e" width="20" height="20" alt="TypeScript" /> TypeScript</td>
     <td><img src="https://cdn.simpleicons.org/python/8b949e" width="20" height="20" alt="Python" /> Python</td> -->
-    <!-- <td><img src="https://cdn.simpleicons.org/dart/8b949e" width="20" height="20" alt="Dart" /> Dart</td> -->
+    npm create vite@latest name-project -- --template react-ts
 <!-- </table> -->
 
 <!-- <table>
