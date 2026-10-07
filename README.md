@@ -3,6 +3,8 @@
 I'm Yass, a dev still locked in and growing, one commit at a time<br/>
 I got a lil' ML on the side too, 'cause why not? If it's got a bug, I'm on it. No cap.
 
+Hit me up [LinkedIn](https://www.linkedin.com/in/diyas-ruwandi-285118295/) | [Portfolio](https://www.diyasruwandi.my.id/) | [Email](mailto:diyasruwandi273@gmail.com) | [Instagram](https://www.instagram.com/yassrwnd)
+
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- <div align="center">
@@ -53,8 +55,6 @@ I got a lil' ML on the side too, 'cause why not? If it's got a bug, I'm on it. N
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=diyasruwandi&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
