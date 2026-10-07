@@ -13,12 +13,12 @@ Hit me up [LinkedIn](https://www.linkedin.com/in/diyas-ruwandi-285118295/), [Por
 
 
 ### Tech Stack:
-○ Languages : Javascript, Typescript, Python, PHP, Dart
-○ Frameworks & Tools : React, Flutter, Flask, Vite
-○ Machine Learning : Tesseract OCR, OpenCV, Scikit-learn
-○ Database & Services : PostgreSQL, MySQL, Firebase
-○ Game Engine : Unity
-○ Design : Figma, TailwindCSS
+○ Languages : Javascript, Typescript, Python, PHP, Dart<br/>
+○ Frameworks & Tools : React, Flutter, Flask, Vite<br/>
+○ Machine Learning : Tesseract OCR, OpenCV, Scikit-learn<br/>
+○ Database & Services : PostgreSQL, MySQL, Firebase<br/>
+○ Game Engine : Unity<br/>
+○ Design : Figma, TailwindCSS<br/>
 ○ Tools : Git, Github, Postman
 
 
@@ -27,7 +27,7 @@ Hit me up [LinkedIn](https://www.linkedin.com/in/diyas-ruwandi-285118295/), [Por
     <td><img src="https://cdn.simpleicons.org/javascript/8b949e" width="20" height="20" alt="JavaScript" /> JavaScript</td>
     <td><img src="https://cdn.simpleicons.org/typescript/8b949e" width="20" height="20" alt="TypeScript" /> TypeScript</td>
     <td><img src="https://cdn.simpleicons.org/python/8b949e" width="20" height="20" alt="Python" /> Python</td> -->
-    <!-- <td><img src="https://cdn.simpleicons.org/dart/8b949e" width="20" height="20" alt="Dart" /> Dart</td> --></tr>
+    <!-- <td><img src="https://cdn.simpleicons.org/dart/8b949e" width="20" height="20" alt="Dart" /> Dart</td> -->
 <!-- </table> -->
 
 <!-- <table>
