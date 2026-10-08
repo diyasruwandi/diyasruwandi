@@ -19,7 +19,7 @@ Hit me up [LinkedIn](https://www.linkedin.com/in/diyas-ruwandi-285118295/), [Por
 ○ Database & Services : PostgreSQL, MySQL, Firebase<br/>
 ○ Game Engine : Unity<br/>
 ○ Design : Figma, TailwindCSS<br/>
-○ Tools : Git, Github, Postman
+○ Tools : Github, Gitlab, Postman
 
 
 <!-- <table> -->
